@@ -31,7 +31,5 @@
 
 /public/assets
 
-/modulo
-
 # Ignore master key for decrypting credentials and more.
 /config/master.key
